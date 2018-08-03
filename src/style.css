@@ -1,0 +1,60 @@
+#root{
+  margin: auto;
+  width: 700px;
+  height: 400px;
+  font-size: 15px;
+  color: white;
+  background-color:rosybrown; 
+ /*  background-image: url(./images/round.svg); */
+}
+
+.tick_1{
+  background-color: pink;
+}
+.bg-elment{
+  margin: auto;
+  padding: 20px
+}
+.text-input{
+  width: 450px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 18px;
+  border: 0;
+  padding-left: 10px;
+  
+}
+.btn{
+  width: 80px;
+  height: 30px;
+  line-height: 15px;
+  margin-left: 20px;
+  background-color: orange;
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 1px 1px #e9bc69; 
+  color: rgb(241, 224, 224);
+}
+ul{
+  padding-top: 5px;
+  
+}
+ul li{ 
+  margin: 15px;
+  padding-left: 40px;
+  position: relative;
+  font-size: 20px
+}
+.delBtn{
+  border: 1px solid sandybrown;
+  border-radius: 25px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  right: 20px;
+  top: 0;
+  color: #f3efe7;
+  background-color: sandybrown;
+  font-size: 20px;
+  text-align: top;
+}
